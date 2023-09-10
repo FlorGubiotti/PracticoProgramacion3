@@ -20,6 +20,6 @@ tablas de la base de datos.
 
 Descargar el proyecto y luego sobre la carpeta que se desee guardar, abrir la terminal y colocar el siguiente comando:
 
-git clone https://github.com/FlorGubiotti/PracticoProgramacion3.git
+`git clone https://github.com/FlorGubiotti/PracticoProgramacion3.git`
 
 Una vez hecho ya podrá abrir el proyecto correctamente, es necesario tener instalado el programa H2 para la base de datos. 
