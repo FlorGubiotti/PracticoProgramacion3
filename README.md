@@ -3,11 +3,11 @@
 Este repositorio contiene el código en Spring Boot sobre el siguiente diagrama UML
 ![UML del proyecto](UML.png)
 
-##OBJETIVO
+## OBJETIVO
 
 El objetivo de este trabajo práctico es adquirir un entendimiento profundo de las anotaciones JPA en el contexto de Spring Boot y cómo se utilizan para mapear clases Java a tablas de una base de datos. Además, comprender las distintas formas de asociación entre clases en Hibernate en el contexto de una aplicación Spring Boot.
 
-##REQUISITOS TÉCNICOS
+## REQUISITOS TÉCNICOS
 
 - Utilizar Spring Boot y Gradle como sistema de gestión de dependencias.
 - Configurar una base de datos H2 embebida y configurar la conexión en 
@@ -16,7 +16,7 @@ el archivo de configuración de Spring Boot.
 descrito, aplicando las anotaciones JPA necesarias para mapearlas a las 
 tablas de la base de datos.
 
-##INSTALAION
+## INSTALAION
 
 Descargar el proyecto y luego sobre la carpeta que se desee guardar, abrir la terminal y colocar el siguiente comando:
 
