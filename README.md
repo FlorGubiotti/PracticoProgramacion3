@@ -16,7 +16,7 @@ el archivo de configuración de Spring Boot.
 descrito, aplicando las anotaciones JPA necesarias para mapearlas a las 
 tablas de la base de datos.
 
-## INSTALAION
+## INSTALACION
 
 Descargar el proyecto y luego sobre la carpeta que se desee guardar, abrir la terminal y colocar el siguiente comando:
 
